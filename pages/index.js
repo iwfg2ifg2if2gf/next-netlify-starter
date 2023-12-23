@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Thunder X" />
         <p className="description">
-         discord.gg/S6YKUwgJWn  <code> V1 TEST</code>
+        Check our discord server just made a amazing update<code> V1 TEST</code>
         </p>
       </main>
 
