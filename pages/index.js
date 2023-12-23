@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Thunder X" />
         <p className="description">
-         Lets get started! <code>pages/index.js</code>
+        discord.com/invite/TKDkhFESzt  <code>pages/index.js</code>
         </p>
       </main>
 
